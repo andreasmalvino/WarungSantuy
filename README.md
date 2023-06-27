@@ -22,7 +22,7 @@ This website serves as a platform for managing a online store. It provides funct
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/website.git
+   git clone https://github.com/andreasmalvino/WarungSantuy.git
    ```
 
 2. Import the database:
