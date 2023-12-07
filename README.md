@@ -17,6 +17,10 @@ This website serves as a platform for managing a online store. It provides funct
 - PHP
 - MySQL
 
+## Preview
+
+![Uer_Dashboard](/Warung%20Santuy%20Preview/User%20Dashboard.png)
+
 ## Installation
 
 1. Clone the repository:
