@@ -32,7 +32,7 @@ This website serves as a platform for managing a online store. It provides funct
 ![Admin_Dashboard1](/Warung%20Santuy%20Preview/admin%20dashboard2.png)
 
 ### Admin Dashboard 2
-![Admin_Dashboard2](/Warung%20Santuy%20Preview/adminr%20dashboard.png)
+![Admin_Dashboard2](/Warung%20Santuy%20Preview/admin%20dashboard.png)
 
 ## Installation
 
