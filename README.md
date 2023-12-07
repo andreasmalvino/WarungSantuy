@@ -25,14 +25,14 @@ This website serves as a platform for managing a online store. It provides funct
 ### User Orders
 ![User_Pesanan](/Warung%20Santuy%20Preview/User%20Pesanan.png)
 
-### Use Account
+### User Account
 ![User_Dashboard](/Warung%20Santuy%20Preview/User%20Dashboard.png)
 
 ### Admin Dashboard 1
 ![Admin_Dashboard1](/Warung%20Santuy%20Preview/admin%20dashboard2.png)
 
 ### Admin Dashboard 2
-![Admin_Dashboard2](/Warung%20Santuy%20Preview/aser%20dashboard.png)
+![Admin_Dashboard2](/Warung%20Santuy%20Preview/adminr%20dashboard.png)
 
 ## Installation
 
